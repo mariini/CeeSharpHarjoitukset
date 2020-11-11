@@ -1,0 +1,10 @@
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\bin\Debug\CSharpTreenit.exe.config
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\bin\Debug\CSharpTreenit.exe
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\bin\Debug\CSharpTreenit.pdb
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\obj\Debug\CSharpTreenit.csprojAssemblyReference.cache
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\obj\Debug\CSharpTreenit.Form1.resources
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\obj\Debug\CSharpTreenit.Properties.Resources.resources
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\obj\Debug\CSharpTreenit.csproj.GenerateResource.cache
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\obj\Debug\CSharpTreenit.csproj.CoreCompileInputs.cache
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\obj\Debug\CSharpTreenit.exe
+C:\Users\riina\Documents\repos\CeeSharpHarjoitukset\CSharpTreenit\obj\Debug\CSharpTreenit.pdb
