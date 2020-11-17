@@ -1,0 +1,7 @@
+C:\Users\riina\OneDrive\Työpöytä\C#\ArvaaNumero\bin\Debug\ArvaaNumero.exe.config
+C:\Users\riina\OneDrive\Työpöytä\C#\ArvaaNumero\bin\Debug\ArvaaNumero.exe
+C:\Users\riina\OneDrive\Työpöytä\C#\ArvaaNumero\bin\Debug\ArvaaNumero.pdb
+C:\Users\riina\OneDrive\Työpöytä\C#\ArvaaNumero\obj\Debug\ArvaaNumero.csprojAssemblyReference.cache
+C:\Users\riina\OneDrive\Työpöytä\C#\ArvaaNumero\obj\Debug\ArvaaNumero.csproj.CoreCompileInputs.cache
+C:\Users\riina\OneDrive\Työpöytä\C#\ArvaaNumero\obj\Debug\ArvaaNumero.exe
+C:\Users\riina\OneDrive\Työpöytä\C#\ArvaaNumero\obj\Debug\ArvaaNumero.pdb
