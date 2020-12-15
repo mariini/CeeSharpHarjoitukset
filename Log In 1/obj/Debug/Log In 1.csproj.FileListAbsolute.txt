@@ -1,0 +1,11 @@
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log In 1.csprojAssemblyReference.cache
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log_In_1.Form1.resources
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log_In_1.Form2.resources
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log_In_1.Properties.Resources.resources
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log In 1.csproj.GenerateResource.cache
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log In 1.csproj.CoreCompileInputs.cache
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\bin\Debug\Log In 1.exe.config
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\bin\Debug\Log In 1.exe
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\bin\Debug\Log In 1.pdb
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log In 1.exe
+C:\Users\riina\OneDrive\Työpöytä\C#\Kirjautumisikkunat\Log In 1\obj\Debug\Log In 1.pdb
